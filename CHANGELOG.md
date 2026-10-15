@@ -1,3 +1,5 @@
+**English** | [עברית](CHANGELOG.he.md)
+
 # Changelog
 
 Notable changes to `s3gc`, newest first.
