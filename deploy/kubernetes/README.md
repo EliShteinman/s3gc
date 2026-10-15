@@ -1,3 +1,5 @@
+**English** | [עברית](README.he.md)
+
 # Kubernetes Job runner
 
 Run `s3gc` as a one-shot Job in the ClickHouse namespace. This guide is the
