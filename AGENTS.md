@@ -1,3 +1,5 @@
+**English** | [עברית](AGENTS.he.md)
+
 # Codex guide — s3gc
 
 Read `CLAUDE.md`, `CHANGELOG.md`, and `TODO.md` before making substantive
