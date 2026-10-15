@@ -1,3 +1,5 @@
+**English** | [עברית](CLAUDE.he.md)
+
 # Contributor guide — s3gc
 
 `s3gc` is a Python command-line tool and Kubernetes Job workflow for finding
