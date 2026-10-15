@@ -3,6 +3,8 @@ name: altinity-clickhouse-s3gc
 description: Safely investigate, plan, review, and execute cleanup of orphaned objects from ClickHouse S3 or compatible object-storage disks with s3gc. Use for S3 garbage collection, orphan-object cleanup, s3gc dry runs, reviewed deletion Jobs, or post-delete verification.
 ---
 
+**English** | [עברית](SKILL.he.md)
+
 # ClickHouse S3 Garbage Collection
 
 Use this skill for the `s3gc` workflow only: identifying objects in a configured object-store
